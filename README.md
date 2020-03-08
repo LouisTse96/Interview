@@ -72,8 +72,9 @@
 2. 聊实习项目
   - 实习过程中最难的是什么？怎么样解决没有反馈这种问题（抽样看效果）；
   - 讲一下LR和SVM的区别，各适用于什么场景，非线性SVM原理；
-  - L1、L2正则的作用，防止过拟合的方法（dropout，batch normalization）
+  - L1、L2正则的作用
+  - 防止过拟合的方法;
   - 卷积和池化的过程；
-  - 集成模型bagging和boosting的区别；
+  - 集成模型bagging和boosting的区别，训练过程有什么不同；
   - 讲一下attention机制（讲了s2q和transformer里的两种attention）；
   - 讲一下优化器；
